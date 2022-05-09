@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\bin\Debug\Ozyinelemeli_Fonksiyon.exe.config
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\bin\Debug\Ozyinelemeli_Fonksiyon.exe
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\bin\Debug\Ozyinelemeli_Fonksiyon.pdb
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\obj\Debug\Ozyinelemeli_Fonksiyon.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\obj\Debug\Ozyinelemeli_Fonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\obj\Debug\Ozyinelemeli_Fonksiyon.exe
+C:\Users\HP DX\source\repos\Ozyinelemeli_Fonksiyon\Ozyinelemeli_Fonksiyon\obj\Debug\Ozyinelemeli_Fonksiyon.pdb
